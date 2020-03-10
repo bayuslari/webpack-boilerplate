@@ -1,0 +1,8 @@
+$h3-color: olive;
+
+h3 {
+    background-color: $h3-color;
+    user-select: none;
+    outline: none;
+    filter: grayscale(50%);
+}
